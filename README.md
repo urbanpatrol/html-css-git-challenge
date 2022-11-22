@@ -3,9 +3,9 @@
 ## HTML CSS Git Challenge: Horiseon Website Code Refactor
 
 ## Contents
-* [Description](*description)
-* [Approach](*approach)
-* [Challenges](*challenges)
+* [Description](#description)
+* [Approach](#approach)
+* [Challenges](#challenges)
 
 ## Description
 
@@ -33,8 +33,8 @@ A good example is the 'nav' element. I was tempted to include all related div ta
 ![](challenge/starter/assets/images/horiseon-nav.png)
 
 I found the following resources very helpful:
-* [SEMRush Blog - Sematic HTML5 Guide](*https://www.semrush.com/blog/semantic-html5-guide/)
-* [W3School Semantic HTML](*https://www.w3schools.com/html/html5_semantic_elements.asp)
+* [SEMRush Blog - Sematic HTML5 Guide](https://www.semrush.com/blog/semantic-html5-guide/)
+* [W3School Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 #### *CSS*
 I found the CSS to be an easier task where a number of elements had been introduced that were unnecessary. For example, references to font sizing when h2 tags had already been introduded in the HTML.
@@ -42,7 +42,7 @@ I found the CSS to be an easier task where a number of elements had been introdu
 There were also a number of the same code references to different classes and so it stands to reason to group these for better management.
 
 The following was a helpful resource:
-* [W3School CSS Tutorial](*https://www.w3schools.com/css/)
+* [W3School CSS Tutorial](https://www.w3schools.com/css/)
 
 ## Credits
 
@@ -61,7 +61,7 @@ The website has no crazy features to speak of, just a simple navigation to vario
 
 ## Tests
 
-Finally in both HTML and CSS, as well as my own review for integrity, I used the [W3.org Validator](*https://validator.w3.org) to validate code and identify errors. Additionally, I used [Code Beautify](*https://codebeautify.org/htmlviewer) to clean up the HTML in terms of layout. 
+Finally in both HTML and CSS, as well as my own review for integrity, I used the [W3.org Validator](https://validator.w3.org) to validate code and identify errors. Additionally, I used [Code Beautify](https://codebeautify.org/htmlviewer) to clean up the HTML in terms of layout. 
 
 ---
 
