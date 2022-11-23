@@ -11,6 +11,8 @@
 
 The client approached me to refactor the code on their Horiseon website to ensure their codebase meets accessibility standards and the site is optimised for search engines.
 
+You can find the Horiseon website for reference here [Horiseon Website](https://urbanpatrol.github.io/html-css-git-challenge/challenge/starter/index.html)
+
 ### User Story
 >**AS A** marketing agency
 **I WANT** a codebase that follows accessibility standards
@@ -26,9 +28,9 @@ I took the following approach in reviewing the codebase adding, subtracting and 
 
 ## Challenges
 #### *Semantic HTML*
-Despite many years of working with websites, this is the first time I had been exposed to the concept of Semantic HTML. It took additional research to appreciate and at first I struggled with where to begin. Through trial and error attempts later, it started falling into place 👍  
+Despite many years of working with websites, this is the first time I had been exposed to the concept of Semantic HTML. It took additional research to appreciate and at first I struggled with where to begin. Through trial and error and a few attempts later, it started to fall into place. 👍  
 
-A good example is the 'nav' element. I was tempted to include all related div tags but thsi broke the codebase and later identified that it should only inclide the actual links/elements in the navigation.
+A good example is the 'nav' element where I was tempted to include all the related div tags but this broke the codebase and I later identified that it should only inclide the actual links/elements in the navigation so in this case, the unordered list.
 
 ![](challenge/starter/assets/images/horiseon-nav.png)
 
