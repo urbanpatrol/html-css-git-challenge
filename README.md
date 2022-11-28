@@ -30,20 +30,20 @@ I took the following approach in reviewing the codebase adding, subtracting and 
 #### *Semantic HTML*
 Despite many years of working with websites, this is the first time I had been exposed to the concept of Semantic HTML. It took additional research to appreciate and at first I struggled with where to begin. Through trial and error and a few attempts later, it started to fall into place. 👍  
 
-A good example is the 'nav' element where I was tempted to include all the related div tags but this broke the codebase and I later identified that it should only inclide the actual links/elements in the navigation so in this case, the unordered list.
+A good example is the 'nav' element where I was tempted to include all the related div tags but this broke the codebase and I later identified that it should only include the actual links/elements in the navigation so in this case, the unordered list.
 
 ![](challenge/starter/assets/images/horiseon-nav.png)
 
-I found the following resources very helpful:
+I found the following resources very useful:
 * [SEMRush Blog - Sematic HTML5 Guide](https://www.semrush.com/blog/semantic-html5-guide/)
 * [W3School Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 #### *CSS*
-I found the CSS to be an easier task where a number of elements had been introduced that were unnecessary. For example, references to font sizing when h2 tags had already been introduded in the HTML.
+I found the CSS to be an easier task where a number of elements had been introduced that were unnecessary. For example, references to font sizing when h2 tags had already been introduced in the HTML.
 
 There were also a number of the same code references to different classes and so it stands to reason to group these for better management.
 
-The following was a helpful resource:
+The following was a useful resource:
 * [W3School CSS Tutorial](https://www.w3schools.com/css/)
 
 ## Credits
